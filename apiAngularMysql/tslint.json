@@ -1,0 +1,8 @@
+{
+    "rules": {
+      "quotemark": [true, "single", "jsx-double"],
+      "semicolon": true,
+      "no-empty-interface": true
+    }
+  }
+  
